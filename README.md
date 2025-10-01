@@ -2,10 +2,6 @@
 
 # Wei-Hao Chen
 
-</div>
-
----
-
 ## About Me 👋
 
 Hello! I'm Wei-Hao Chen, a Ph.D. candidate in the Department of Computer Science at **Purdue University** and a member of the **Human-Centered Software Systems Lab** under the guidance of Professor Tianyi Zhang.
