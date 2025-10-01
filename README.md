@@ -14,49 +14,49 @@
 
 ## About Me 👋
 
-Hello! I'm Wei-Hao Chen, a Ph.D. candidate in the Department of Computer Science at Purdue University and a member of the **Human-Centered Software Systems Lab** under the guidance of Professor Tianyi Zhang.
+Hello! I'm Wei-Hao Chen, a Ph.D. candidate in the Department of Computer Science at **Purdue University** and a member of the **Human-Centered Software Systems Lab** under the guidance of Professor Tianyi Zhang.
 
-My research focuses on technical aspects of **Human Computer/AI Interaction (HCI/HAI)**, particularly in building novel AI-powered interactive systems to help:
+My research focuses on technical aspects of **Human Computer/AI Interaction (HCI/HAI)**, particularly in building novel interactive systems to help:
 
-- 📊 Data scientists
-- 💻 Developers
-- 👥 End-users
+- 📊 **Data scientists**
+- 💻 **Developers**
+- 👥 **End-users**
 
-I leverage techniques such as **Large Language Models (LLM)**, **Artificial Intelligence**, and **Programming-by-Demonstration** to create AI-powered tools with strong UI/UX and human-centered design. Most of my projects are system-centric, aiming to improve efficiency and usability within data science pipelines.
+I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat&logoColor=white) ![AI](https://img.shields.io/badge/AI-4ECDC4?style=flat&logoColor=white) ![PBD](https://img.shields.io/badge/Programming--by--Demonstration-95E1D3?style=flat&logoColor=white) to create AI-powered tools with strong UI/UX and human-centered design. Most of my projects are system-centric, aiming to improve efficiency and usability within data science pipelines.
 
 ---
 
 ## 📚 Publications
 
-### **Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science**
-
-**Wei-Hao Chen**, Jia Lin Cheoh, Manthan Keim, Sabine Brunswicker, Tianyi Zhang
-*Proceedings of the 33rd ACM Conference on the Foundations of Software Engineering (FSE), 2025*
-`SOFTWARE ENGINEERING` `DATA SCIENCE`
-
 ### **Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**
 
 **Wei-Hao Chen**, Weixi Tong, Amanda Case, Tianyi Zhang
 *ACM Conference on Human Factors in Computing Systems (CHI), 2025*
-`HCI` `LLM` `DATA SCIENCE`
+![HCI](https://img.shields.io/badge/HCI-FF6B6B?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-4ECDC4?style=flat-square) ![DATA SCIENCE](https://img.shields.io/badge/DATA_SCIENCE-FFE66D?style=flat-square)
+
+### **Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science**
+
+**Wei-Hao Chen**, Jia Lin Cheoh, Manthan Keim, Sabine Brunswicker, Tianyi Zhang
+*Proceedings of the 33rd ACM Conference on the Foundations of Software Engineering (FSE), 2025*
+![SOFTWARE ENGINEERING](https://img.shields.io/badge/SOFTWARE_ENGINEERING-A8E6CF?style=flat-square) ![DATA SCIENCE](https://img.shields.io/badge/DATA_SCIENCE-FFE66D?style=flat-square)
 
 ### **MIWA: Mixed-Initiative Web Automation for Better User Control and Confidence**
 
 **Wei-Hao Chen**, Xiaoyu Liu, Jiacheng Zhang, Ian Iong Lam, Zhicheng Huang, Rui Dong, Xinyu Wang, Tianyi Zhang
 *ACM Symposium on User Interface Software and Technology (UIST), 2023*
-`HCI` `PBD` `DATA SCIENCE`
+![HCI](https://img.shields.io/badge/HCI-FF6B6B?style=flat-square) ![PBD](https://img.shields.io/badge/PBD-C7CEEA?style=flat-square) ![DATA SCIENCE](https://img.shields.io/badge/DATA_SCIENCE-FFE66D?style=flat-square)
 
 ### **CCA-Secure Key-Aggregate Proxy Re-Encryption for Secure Cloud Storage**
 
 **Wei-Hao Chen**, Chun-I Fan, Yi-Fan Tseng
 *arXiv preprint arXiv:2410.08120*
-`CRYPTOGRAPHY` `DATA STORAGE`
+![CRYPTOGRAPHY](https://img.shields.io/badge/CRYPTOGRAPHY-B4A7D6?style=flat-square) ![DATA STORAGE](https://img.shields.io/badge/DATA_STORAGE-FFB6B9?style=flat-square)
 
 ### **Efficient Key-Aggregate Proxy Re-Encryption for Secure Data Sharing in Clouds**
 
 **Wei-Hao Chen**, Chun-I Fan, Yi-Fan Tseng
 *IEEE Conference on Dependable and Secure Computing (DSC), 2018*
-`CRYPTOGRAPHY` `DATA STORAGE`
+![CRYPTOGRAPHY](https://img.shields.io/badge/CRYPTOGRAPHY-B4A7D6?style=flat-square) ![DATA STORAGE](https://img.shields.io/badge/DATA_STORAGE-FFB6B9?style=flat-square)
 
 ---
 
