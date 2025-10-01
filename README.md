@@ -1,4 +1,18 @@
+<div align="center">
+
 # Wei-Hao Chen
+
+### 🎓 CS PhD Candidate @ Purdue University
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferranschen.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chen4129@purdue.edu)
+
+</div>
+
+---
+
+## About Me 👋
 
 Hello! I'm Wei-Hao Chen, a Ph.D. candidate in the Department of Computer Science at Purdue University and a member of the **Human-Centered Software Systems Lab** under the guidance of Professor Tianyi Zhang.
 
@@ -14,17 +28,17 @@ I leverage techniques such as **Large Language Models (LLM)**, **Artificial Inte
 
 ## 📚 Publications
 
-### **Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**
-
-**Wei-Hao Chen**, Weixi Tong, Amanda Case, Tianyi Zhang
-*ACM Conference on Human Factors in Computing Systems (CHI), 2025*
-`HCI` `LLM` `DATA SCIENCE`
-
 ### **Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science**
 
 **Wei-Hao Chen**, Jia Lin Cheoh, Manthan Keim, Sabine Brunswicker, Tianyi Zhang
 *Proceedings of the 33rd ACM Conference on the Foundations of Software Engineering (FSE), 2025*
 `SOFTWARE ENGINEERING` `DATA SCIENCE`
+
+### **Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**
+
+**Wei-Hao Chen**, Weixi Tong, Amanda Case, Tianyi Zhang
+*ACM Conference on Human Factors in Computing Systems (CHI), 2025*
+`HCI` `LLM` `DATA SCIENCE`
 
 ### **MIWA: Mixed-Initiative Web Automation for Better User Control and Confidence**
 
@@ -61,12 +75,14 @@ I leverage techniques such as **Large Language Models (LLM)**, **Artificial Inte
 ## 🛠️ Technical Skills
 
 ### Machine Learning & AI
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -75,6 +91,7 @@ I leverage techniques such as **Large Language Models (LLM)**, **Artificial Inte
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 ### Full-Stack Development
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -84,6 +101,7 @@ I leverage techniques such as **Large Language Models (LLM)**, **Artificial Inte
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=database&logoColor=white)
