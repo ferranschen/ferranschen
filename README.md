@@ -14,17 +14,17 @@ I leverage techniques such as **Large Language Models (LLM)**, **Artificial Inte
 
 ## 📚 Publications
 
-### **Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science**
-
-**Wei-Hao Chen**, Jia Lin Cheoh, Manthan Keim, Sabine Brunswicker, Tianyi Zhang
-*Proceedings of the 33rd ACM Conference on the Foundations of Software Engineering (FSE), 2025*
-`SOFTWARE ENGINEERING` `DATA SCIENCE`
-
 ### **Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**
 
 **Wei-Hao Chen**, Weixi Tong, Amanda Case, Tianyi Zhang
 *ACM Conference on Human Factors in Computing Systems (CHI), 2025*
 `HCI` `LLM` `DATA SCIENCE`
+
+### **Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science**
+
+**Wei-Hao Chen**, Jia Lin Cheoh, Manthan Keim, Sabine Brunswicker, Tianyi Zhang
+*Proceedings of the 33rd ACM Conference on the Foundations of Software Engineering (FSE), 2025*
+`SOFTWARE ENGINEERING` `DATA SCIENCE`
 
 ### **MIWA: Mixed-Initiative Web Automation for Better User Control and Confidence**
 
