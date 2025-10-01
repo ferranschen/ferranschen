@@ -2,9 +2,6 @@
 
 # Wei-Hao Chen
 
-**CS PhD Candidate @ Purdue University**
-
-
 </div>
 
 ---
