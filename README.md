@@ -1,5 +1,3 @@
-<div align="center">
-
 # Wei-Hao Chen
 
 ## About Me 👋
@@ -13,8 +11,6 @@ My research focuses on building novel interactive systems to help:
 - 👥 **End-users**
 
 I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat&logoColor=white) ![AI](https://img.shields.io/badge/AI-4ECDC4?style=flat&logoColor=white) ![PBD](https://img.shields.io/badge/Programming--by--Demonstration-95E1D3?style=flat&logoColor=white) to create AI-powered tools with strong UI/UX and human-centered design. Most of my projects are system-centric, aiming to improve efficiency and usability within data science pipelines.
-
----
 
 ## 📚 Publications
 
@@ -48,8 +44,6 @@ I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?sty
 *IEEE Conference on Dependable and Secure Computing (DSC), 2018*
 `CRYPTOGRAPHY` `DATA STORAGE`
 
----
-
 ## 📰 News
 
 - **Apr 2025** - Paper accepted at FSE 2025 🎉
@@ -59,8 +53,6 @@ I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?sty
 - **Jul 2023** - Paper accepted at UIST 2023 🎉
 - **May 2022** - Started internship at Intel Corporation
 - **Sep 2021** - Joined Purdue University as a PhD student in Computer Science 🚂
-
----
 
 ## 🛠️ Technical Skills
 
@@ -97,16 +89,12 @@ I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?sty
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=database&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00A3E0?style=flat&logo=meta&logoColor=white)
 
----
-
 ## 🔬 Research Interests
 
 - Human-AI Interaction (HAI)
 - Large Language Models (LLM)
 - Data Science Tools & Systems
 - Software Engineering
-
----
 
 ## 🤝 Connect with Me
 
@@ -116,8 +104,6 @@ I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?sty
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferranschen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-hao-chen-266a92134/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_weihao_chen_)
-
----
 
 <div align="center">
 
