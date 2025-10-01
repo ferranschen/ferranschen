@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferranschen.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
 
-
 </div>
 
 ---
@@ -16,7 +15,7 @@
 
 Hello! I'm Wei-Hao Chen, a Ph.D. candidate in the Department of Computer Science at **Purdue University** and a member of the **Human-Centered Software Systems Lab** under the guidance of Professor Tianyi Zhang.
 
-My research focuses on technical aspects of **Human Computer/AI Interaction (HCI/HAI)**, particularly in building novel interactive systems to help:
+My research focuses on building novel interactive systems to help:
 
 - 📊 **Data scientists**
 - 💻 **Developers**
@@ -50,13 +49,13 @@ I leverage techniques such as ![LLM](https://img.shields.io/badge/LLM-FF6B6B?sty
 
 **Wei-Hao Chen**, Chun-I Fan, Yi-Fan Tseng
 *arXiv preprint arXiv:2410.08120*
-![CRYPTOGRAPHY](https://img.shields.io/badge/CRYPTOGRAPHY-B4A7D6?style=flat-square) ![DATA STORAGE](https://img.shields.io/badge/DATA_STORAGE-FFB6B9?style=flat-square)
+`CRYPTOGRAPHY` `DATA STORAGE`
 
 ### **Efficient Key-Aggregate Proxy Re-Encryption for Secure Data Sharing in Clouds**
 
 **Wei-Hao Chen**, Chun-I Fan, Yi-Fan Tseng
 *IEEE Conference on Dependable and Secure Computing (DSC), 2018*
-![CRYPTOGRAPHY](https://img.shields.io/badge/CRYPTOGRAPHY-B4A7D6?style=flat-square) ![DATA STORAGE](https://img.shields.io/badge/DATA_STORAGE-FFB6B9?style=flat-square)
+`CRYPTOGRAPHY` `DATA STORAGE`
 
 ---
 
